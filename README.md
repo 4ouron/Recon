@@ -1,6 +1,6 @@
 # Recon
 ## How to use
-Run ./recon.sh
+Run ./recon.sh <domain name>
 ## Install needed tools
 - wget https://golang.org/dl/go1.15.6.linux-amd64.tar.gz | tar -xvf go1.15.6.linux-amd64.tar.gz -C /usr/local
 - chown -R root:root /usr/local/go
