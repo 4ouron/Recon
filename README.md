@@ -10,6 +10,6 @@ Run ./recon.sh
 - go get -u github.com/sensepost/gowitness
 - go get github.com/tomnomnom/waybackurls
 - go get github.com/haccer/subjack
-Edit .profile and add 2 these lines
+### Edit .profile and add 2 these lines
 - export PATH=$PATH:/usr/local/go/bin
 - export PATH=$PATH:/root/go/bin
