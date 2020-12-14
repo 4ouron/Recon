@@ -1,4 +1,4 @@
-# Recon Mindmap
+# Recon
 ## How to use
 Run ./recon.sh
 ## Install needed tools
